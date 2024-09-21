@@ -13,5 +13,6 @@ This is a simple Sudoku Solver built using Python's tkinter library for the grap
 - To start a new puzzle, simply use the reset button to clear the board.
 
 **Technologies Used**
--Python 3.x
--tkinter for the GUI components.
+
+- Python 3.x
+- tkinter for the GUI components.
